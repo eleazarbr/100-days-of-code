@@ -1,30 +1,39 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 27, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: D1 - Working with Laravel... writing policy methods to authorize each action.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Lately I am doing my projects in Laravel and I started the challenge of 100daysofcode.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Tweet](https://twitter.com/eleazarbr/status/946045691926929408)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 28, 2017
+##### FreeCodeCamp - Use the Twitchtv JSON API
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished the FCC project "Use the Twitchtv JSON API".
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really liked having used the Twitchtv API, this reinforces the use of APIs in web development. However, I have to improve the frontend part to read the webservices through AJAX and manipulate it with javascript.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Using Twitchtv JSON API](https://codepen.io/eleazarbr/full/BmXreP/)
 
+### Day 3: December 29, 2017
+##### Created my personal website in Jekyll
 
-### Day 1: June 27, Monday
+**Today's Progress**: After reading the [Jekyll documentation](https://jekyllrb.com/docs/home/) I decided to use it as the engine of my personal website. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I loved Jekyll, it's a combination of Markdown, with the Lliquid template and Ruby. For now, my website is simple but will grow with the projects I develop.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Github Initial Commit](https://github.com/eleazarbr/eleazarbr.github.io/commit/cc5ae30dba2f6c7ded5204625dfcc345385a3b5a)
+
+### Day 4: January 1, 2018
+##### Added SSL to my website
+
+**Today's Progress**: After holidays, finished my Jekyll persona website and added SSL.
+
+**Thoughts**: It was not something to code, but take time to read about it and add a certificate for my site. Also added the CNAME file to use a custom domain.
+
+**Link(s) to work**
+1. [Added CNAME](https://github.com/eleazarbr/eleazarbr.github.io/commit/92ff7c89fd3be30841193fa76d5b13871387a7d9)
+2. [https://www.eresendez.com](https://www.eresendez.com)
