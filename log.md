@@ -30,10 +30,22 @@
 ### Day 4: January 1, 2018
 ##### Added SSL to my website
 
-**Today's Progress**: After holidays, finished my Jekyll persona website and added SSL.
+**Today's Progress**: After holidays, finished my Jekyll personal website and added SSL.
 
 **Thoughts**: It was not something to code, but take time to read about it and add a certificate for my site. Also added the CNAME file to use a custom domain.
 
 **Link(s) to work**
 1. [Added CNAME](https://github.com/eleazarbr/eleazarbr.github.io/commit/92ff7c89fd3be30841193fa76d5b13871387a7d9)
 2. [https://www.eresendez.com](https://www.eresendez.com)
+
+### Day 5: January 3, 2018
+##### R1D5 - Projects section
+
+**Today's Progress**: R1D5: Started to make my portfolio section to show the projects I am undertaking.
+
+**Thoughts**: I started to program the portfolio section on my website. I used HTML5UP Parallelism and adapted it to Jekyll, in the following days I'll start updating with images and the projects I've done.
+
+**Link(s) to work**
+1. [Github - Added assets for my portfolio](https://github.com/eleazarbr/eleazarbr.github.io/commit/30c634ef089947ab031860ca2f57e0737ffa08d6)
+
+
