@@ -48,4 +48,35 @@
 **Link(s) to work**
 1. [Github - Added assets for my portfolio](https://github.com/eleazarbr/eleazarbr.github.io/commit/30c634ef089947ab031860ca2f57e0737ffa08d6)
 
+### Day 6: January 4, 2018
+##### D6 - Projects section
 
+**Today's Progress**: Continue looking for a template for portfolio, in the future I have plans to make my own portfolio, but at this time I do not have the time to do what my mind wants.
+
+**Thoughts**: I'm very excited for all daily advances. Giving the final touches to the portfolio and then continue with the advanced frontend algorithms in freeCodeCamp.
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/eleazarbr/status/949132467897737221)
+2. [Github - Modify header and links colors and upload portfolio sample pics](https://github.com/eleazarbr/eleazarbr.github.io/commit/425203a6fdbc55c226beac4fe343208a9179f827)
+
+### Day 7: January 5, 2018
+##### freeCodeCamp Challenges
+
+**Today's Progress**: Finished Diff Two Arrays Challenge 
+
+**Thoughts**: I still can not find my favorite template, however, I consider buying one.
+
+This week I plan to continue with the freecodecamp algorithms to obtain the FrontEnd certificate.
+
+**Link(s) to work**
+1. [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays)
+
+### Day 8: January 7, 2018
+##### freeCodeCamp Challenges
+
+**Today's Progress**: Finished the challenge to convert to Roman numerals
+
+**Thoughts**: With this algorithm I learned new features of javascript with respect to other programming languages, for example: in javascript there are no "associative arrays", so I had to address the problem in another way.
+
+**Link(s) to work**
+1. [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
