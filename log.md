@@ -80,3 +80,16 @@ This week I plan to continue with the freecodecamp algorithms to obtain the Fron
 
 **Link(s) to work**
 1. [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
+
+### Day 9: January 8, 2018
+##### Repository Pattern
+
+**Today's Progress**: 
+Today I learned about Repositories, we don't have to use it, but it is good to learn ways to better structure code. 
+
+**Thoughts**: This gives me slim easy to read controllers, and it's a nice way of extracting database logic into their own classes. 
+
+**Link(s) to work**
+1. []()
+2. [Tweet](https://twitter.com/eleazarbr/status/950594610556014592)
+
