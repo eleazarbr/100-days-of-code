@@ -90,6 +90,18 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 **Thoughts**: This gives me slim easy to read controllers, and it's a nice way of extracting database logic into their own classes. 
 
 **Link(s) to work**
-1. []()
-2. [Tweet](https://twitter.com/eleazarbr/status/950594610556014592)
 
+1. [Tweet](https://twitter.com/eleazarbr/status/950594610556014592)
+
+### Day 10: January 11, 2018
+
+**Today's Progress**: I lost two days, I've been working hard coding at work, however, at home is when I can move forward and continue with my parallels projects that I'll show soon. I've done 3 challenges in freecodecamp (Wherefore art thou, Search and Replace and Pig Lating) from the Intermediate Algorithm Scripting. 
+
+**Thoughts**: I really like the following quote: "Before solving a problem in the compiler, solve it on paper". This has helped me a lot.
+
+
+**Link(s) to work**
+1. [Tweet](https://twitter.com/eleazarbr/status/951679538622337024)
+2. [Upgrade Laravel from 5.3 to 5.4](https://github.com/eleazarbr/app/commit/39d5bed7d2c7b4ef735e5ec7514c8fc814985cf7)
+2. [Added translations logic](https://github.com/eleazarbr/app/commit/294720a2d640bbafbf8908dc361ccdff449853a7)
+2. [Preparing for log every activity](https://github.com/eleazarbr/app/commit/0b6158c3b4f3c0891f50fab8f39b3c9b0a06092d)
