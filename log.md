@@ -99,9 +99,17 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 
 **Thoughts**: I really like the following quote: "Before solving a problem in the compiler, solve it on paper". This has helped me a lot.
 
-
 **Link(s) to work**
 1. [Tweet](https://twitter.com/eleazarbr/status/951679538622337024)
 2. [Upgrade Laravel from 5.3 to 5.4](https://github.com/eleazarbr/app/commit/39d5bed7d2c7b4ef735e5ec7514c8fc814985cf7)
 2. [Added translations logic](https://github.com/eleazarbr/app/commit/294720a2d640bbafbf8908dc361ccdff449853a7)
 2. [Preparing for log every activity](https://github.com/eleazarbr/app/commit/0b6158c3b4f3c0891f50fab8f39b3c9b0a06092d)
+
+### Day 11: January 15, 2018
+
+**Today's Progress**: Started using Magento to develop an e-commerce project. 
+
+**Thoughts**: I've been working a lot, but I haven't had the opportunity to share it on social networks. I promise to share continuously. As I have several personal projects in mind, I work with different technologies for example, today I started reading about Magento to start developing e-commerce and established the work environment.
+
+**Link(s) to work**
+1. (MagentoShop Github Repo)[]
