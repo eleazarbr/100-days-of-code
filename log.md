@@ -112,4 +112,13 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 **Thoughts**: I've been working a lot, but I haven't had the opportunity to share it on social networks. I promise to share continuously. As I have several personal projects in mind, I work with different technologies for example, today I started reading about Magento to start developing e-commerce and established the work environment.
 
 **Link(s) to work**
-1. (MagentoShop Github Repo)[]
+1. [MagentoShop Github Repo]()
+
+### Day 12: January 16, 2018
+
+**Today's Progress**: Used the Banxico API to check the exchange rate Pesos per US dollar E.U.A. Interbank to 48 hours. 
+
+**Thoughts**: With the experience of the last projects, it's easier to consume webservices from different APIs, also, I would like to be on the other side and learn how to code an APi.
+
+**Link(s) to work**
+1. [Check the exchange rate with the Banxico API - Coderwall](https://coderwall.com/p/na7keq/check-the-exchange-rate-with-the-banxico-api)
