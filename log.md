@@ -122,3 +122,16 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 
 **Link(s) to work**
 1. [Check the exchange rate with the Banxico API - Coderwall](https://coderwall.com/p/na7keq/check-the-exchange-rate-with-the-banxico-api)
+
+### Day 13: January 17, 2018
+
+**Today's Progress**: Researched how to generate an iCal file that exports an event to the most common calendar systems, such as Google. I liked the [Spatie calendar-links](https://github.com/spatie/calendar-links) package. I just read the code and that is precisely what I need.
+
+Also, I'm looking for places where I can find the best themes for Magento, I'm in another problem because I want to learn how to apply the translation to the frontend of the site in the simplest way.
+
+Finally, I shared a laravel function that I found useful, because I needed to modify the expiration time of the password reset token to 24 hours and I needed to do tests regarding its expiration date.
+
+**Thoughts**: Keep going with these new habits, I believe that the most important actions is to do things that are useful for others.
+
+**Link(s) to work**
+1. [Verify an expiration date - Coderwall](https://coderwall.com/p/lrooqg/verify-an-expiration-date)
