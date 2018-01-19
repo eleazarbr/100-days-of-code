@@ -135,3 +135,12 @@ Finally, I shared a laravel function that I found useful, because I needed to mo
 
 **Link(s) to work**
 1. [Verify an expiration date - Coderwall](https://coderwall.com/p/lrooqg/verify-an-expiration-date)
+
+### Day 14: January 18, 2018
+
+**Today's Progress** Updated my personal site again and thought of a metric that has the greatest impact on my effectiveness, determining to write monthly while documenting the most important day to day.
+
+**Thoughts** There are many things to do, must document everything and move forward, looking for ways to contribute new and useful things.
+
+**Link(s) to work**
+1. [Personal website](https://eresendez.com)
