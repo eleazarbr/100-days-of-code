@@ -144,3 +144,19 @@ Finally, I shared a laravel function that I found useful, because I needed to mo
 
 **Link(s) to work**
 1. [Personal website](https://eresendez.com)
+
+### Day 15: January 20, 2018
+**Today's Progress** DNA Paring Algorithm Complete
+
+**Thoughts** Continued with the algorithms of freeCodeCamp, also updated a blog post and planned the projects of the week.
+
+**Link(s) to work**
+[Tweet](https://twitter.com/eleazarbr/status/954823728294256641)
+
+### Day 16: January 22, 2018
+**Today's Progress** Missing letters Algorithm Complete  
+
+**Thoughts** When I have the opportunity, I continue forward with the freeCodeCamp intermediate algorithms, someday I will finish them and get the front end certificate ... Meanwhile, I also continue with my responsibilities in the office, with my family and my son! I want to finish all my parallel projects.
+
+**Link(s) to work**
+[Tweet]()
