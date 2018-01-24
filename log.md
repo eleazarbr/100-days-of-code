@@ -154,9 +154,19 @@ Finally, I shared a laravel function that I found useful, because I needed to mo
 [Tweet](https://twitter.com/eleazarbr/status/954823728294256641)
 
 ### Day 16: January 22, 2018
+
 **Today's Progress** Missing letters Algorithm Complete  
 
 **Thoughts** When I have the opportunity, I continue forward with the freeCodeCamp intermediate algorithms, someday I will finish them and get the front end certificate ... Meanwhile, I also continue with my responsibilities in the office, with my family and my son! I want to finish all my parallel projects.
 
 **Link(s) to work**
-[Tweet]()
+[Tweet](https://twitter.com/eleazarbr/status/955596953638842368)
+
+### Day 17: January 23, 2018
+
+**Today's Progress** Boo who complete 
+
+**Thoughts** I am determined to finish my parallel projects together with all my obligations, today, I'm doing daily algorithms in freeCodeCamp, I don't want to lose the habit, while I read about Magento and Udemy, for the implementation of e-commerce and a course.
+
+**Link(s) to work**
+[Boo who Challenge](https://www.freecodecamp.org/challenges/boo-who)
