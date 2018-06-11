@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 1: June 11, 2018
+
+**Today's Progress**:
+Tried the GetCandy solution, the installation was simple and fast; the only problem I found was with its landing page, however, that issue was already treated here.
+
+**Thoughts:**:
+It's a project that personally attracts my attention, for the following characteristics: It is Open source, Api + Admin Hub are free to use in any project, fast!, free to extend by building plugins, PHP + MySQL and Laravel in its latest version
+
+**Link to work:**:
+[Coderwall](https://coderwall.com/p/xx9o7w/try-getcandy-opensource-e-commerce-admin-api-hub)
+
+## Previous attempt to finish the challenge
+
 ### Day 1: December 27, 2017
 
 **Today's Progress**: D1 - Working with Laravel... writing policy methods to authorize each action.
@@ -20,7 +33,7 @@
 ### Day 3: December 29, 2017
 ##### Created my personal website in Jekyll
 
-**Today's Progress**: After reading the [Jekyll documentation](https://jekyllrb.com/docs/home/) I decided to use it as the engine of my personal website. 
+**Today's Progress**: After reading the [Jekyll documentation](https://jekyllrb.com/docs/home/) I decided to use it as the engine of my personal website.
 
 **Thoughts**: I loved Jekyll, it's a combination of Markdown, with the Lliquid template and Ruby. For now, my website is simple but will grow with the projects I develop.
 
@@ -62,7 +75,7 @@
 ### Day 7: January 5, 2018
 ##### freeCodeCamp Challenges
 
-**Today's Progress**: Finished Diff Two Arrays Challenge 
+**Today's Progress**: Finished Diff Two Arrays Challenge
 
 **Thoughts**: I still can not find my favorite template, however, I consider buying one.
 
@@ -84,10 +97,10 @@ This week I plan to continue with the freecodecamp algorithms to obtain the Fron
 ### Day 9: January 8, 2018
 ##### Repository Pattern
 
-**Today's Progress**: 
-Today I learned about Repositories, we don't have to use it, but it is good to learn ways to better structure code. 
+**Today's Progress**:
+Today I learned about Repositories, we don't have to use it, but it is good to learn ways to better structure code.
 
-**Thoughts**: This gives me slim easy to read controllers, and it's a nice way of extracting database logic into their own classes. 
+**Thoughts**: This gives me slim easy to read controllers, and it's a nice way of extracting database logic into their own classes.
 
 **Link(s) to work**
 
@@ -95,7 +108,7 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 
 ### Day 10: January 11, 2018
 
-**Today's Progress**: I lost two days, I've been working hard coding at work, however, at home is when I can move forward and continue with my parallels projects that I'll show soon. I've done 3 challenges in freecodecamp (Wherefore art thou, Search and Replace and Pig Lating) from the Intermediate Algorithm Scripting. 
+**Today's Progress**: I lost two days, I've been working hard coding at work, however, at home is when I can move forward and continue with my parallels projects that I'll show soon. I've done 3 challenges in freecodecamp (Wherefore art thou, Search and Replace and Pig Lating) from the Intermediate Algorithm Scripting.
 
 **Thoughts**: I really like the following quote: "Before solving a problem in the compiler, solve it on paper". This has helped me a lot.
 
@@ -107,7 +120,7 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 
 ### Day 11: January 15, 2018
 
-**Today's Progress**: Started using Magento to develop an e-commerce project. 
+**Today's Progress**: Started using Magento to develop an e-commerce project.
 
 **Thoughts**: I've been working a lot, but I haven't had the opportunity to share it on social networks. I promise to share continuously. As I have several personal projects in mind, I work with different technologies for example, today I started reading about Magento to start developing e-commerce and established the work environment.
 
@@ -116,7 +129,7 @@ Today I learned about Repositories, we don't have to use it, but it is good to l
 
 ### Day 12: January 16, 2018
 
-**Today's Progress**: Used the Banxico API to check the exchange rate Pesos per US dollar E.U.A. Interbank to 48 hours. 
+**Today's Progress**: Used the Banxico API to check the exchange rate Pesos per US dollar E.U.A. Interbank to 48 hours.
 
 **Thoughts**: With the experience of the last projects, it's easier to consume webservices from different APIs, also, I would like to be on the other side and learn how to code an APi.
 
@@ -155,7 +168,7 @@ Finally, I shared a laravel function that I found useful, because I needed to mo
 
 ### Day 16: January 22, 2018
 
-**Today's Progress** Missing letters Algorithm Complete  
+**Today's Progress** Missing letters Algorithm Complete 
 
 **Thoughts** When I have the opportunity, I continue forward with the freeCodeCamp intermediate algorithms, someday I will finish them and get the front end certificate ... Meanwhile, I also continue with my responsibilities in the office, with my family and my son! I want to finish all my parallel projects.
 
@@ -164,7 +177,7 @@ Finally, I shared a laravel function that I found useful, because I needed to mo
 
 ### Day 17: January 23, 2018
 
-**Today's Progress** Boo who complete 
+**Today's Progress** Boo who complete
 
 **Thoughts** I am determined to finish my parallel projects together with all my obligations, today, I'm doing daily algorithms in freeCodeCamp, I don't want to lose the habit, while I read about Magento and Udemy, for the implementation of e-commerce and a course.
 
