@@ -1,14 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 2: June 12, 2018
+
+**Today's Progress**:
+D2 - Returned to @freeCodeCamp, also commit to finish the curriculum and the new challenges :D
+
+Also, read about Digital Ocean to use it soon in a personal project.
+
+**Thoughts**:
+As it's a personal project, I'm going to try Digital Ocean, then I plan to try Heroku and continue learning about cloud hosting
+
+**Link to work**:
+- 
+
 ### Day 1: June 11, 2018
 
 **Today's Progress**:
-Tried the GetCandy solution, the installation was simple and fast; the only problem I found was with its landing page, however, that issue was already treated here.
+Tried the GetCandy solution, the installation was simple and fast; the only problem I found was with its landing page, however, that issue was already treated.
 
-**Thoughts:**:
-It's a project that personally attracts my attention, for the following characteristics: It is Open source, Api + Admin Hub are free to use in any project, fast!, free to extend by building plugins, PHP + MySQL and Laravel in its latest version
+**Thoughts**:
+It's a project that personally attracts my attention, for the following characteristics: It is Open source, Api + Admin Hub are free to use in any project, fast!, free to extend by building plugins, PHP + MySQL and Laravel in its latest version.
 
-**Link to work:**:
+**Link to work**:
 [Coderwall](https://coderwall.com/p/xx9o7w/try-getcandy-opensource-e-commerce-admin-api-hub)
 
 ## Previous attempt to finish the challenge
