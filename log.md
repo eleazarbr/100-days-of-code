@@ -1,10 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 14, 2018
+
+**Today's Progress**:
+D4 - Today I used the coding time to read about Heroku and DigitalOcean (need a place for side projects)
+
+**Thoughts**:
+At the moment I acquired a subscription with DigitalOcean, I find it interesting because with a click a LAMP type environment was created, without any further and fast. I plan to migrate from Jekyll to a blog made with Laravel in DigitalOcean.
+
+**Link to work**:
+-
+
+### Day 3: June 13, 2018
+
+**Today's Progress**:
+D3 - Finished the Introduction to Basic HTML and HTML5 section in freeCodeCamp! 
+
+**Thoughts**:
+I've already finished this previously, however, new challenges were added which I already solved.
+
+**Link to work**:
+- [freeCodeCamp Curriculum](https://www.freecodecamp.org/eleazarbr)
+
 ### Day 2: June 12, 2018
 
 **Today's Progress**:
 D2 - Returned to @freeCodeCamp, also commit to finish the curriculum and the new challenges :D
-
 Also, read about Digital Ocean to use it soon in a personal project.
 
 **Thoughts**:
