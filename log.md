@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 7: June 17, 2018
+
+**Today's Progress**:
+D6 - Recorded a first video about how to install AdminBSB in Laravel (Mix). Hope to help others through screencasts! #100DaysOfCode
+
+**Thoughts**:
+El día de hoy grabé mi primer video para YouTube, el tema aquí es grabar cosas utiles para los demas relacionadas con código, en formato screencast.
+
+**Link to work**:
+En el transcurso de la semana subiré el video a YouTube.
+
+### Day 6: June 16, 2018
+
+Saturday - Resting day! 
+
+### Day 5: June 15, 2018
+
+**Today's Progress**: 
+D5 - Continue realizando algoritmos en #freeCodeCamp #100DaysOfCode
+
+**Thoughts**:
+Quiero disponer de media hora todos los días, que también sea un compromiso y finalizar el curriculum de freeCodeCamp!
+
+**Link to work**:
+- 
+
 ### Day 4: June 14, 2018
 
 **Today's Progress**:
