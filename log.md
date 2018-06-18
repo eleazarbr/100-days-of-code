@@ -1,15 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 8: June 18, 2018
+
+**Today's Progress**:
+D8 - Worked in #freeCodeCamp... 8 challenges and the Introduction to Basic CSS section completed #100DaysOfCode
+
+**Thoughts**:
+* I'm committed to finish all freeCodeCamp by creating the habit of working half an hour on challenges every day!
+* Finally, created CSS variables and now I understand when I read that in code.
+
+**Link to work**:
+1. [Understand Absolute Versus Relative Units](https://www.freecodecamp.org/challenges/understand-absolute-versus-relative-units)
+2. [Use Css Variables To Change Several Elements At Once](https://www.freecodecamp.org/challenges/use-css-variables-to-change-several-elements-at-once)
+3. [Create A Custom Css Variable](https://www.freecodecamp.org/challenges/create-a-custom-css-variable)
+4. [Use A Custom Css Variable](https://www.freecodecamp.org/challenges/use-a-custom-css-variable)
+5. [Attach A Fallback Value To A Css Variable]()
+6. [Cascading Css Variables](https://www.freecodecamp.org/challenges/cascading-css-variables)
+7. [Change A Variable for A Specific Area](https://www.freecodecamp.org/challenges/change-a-variable-for-a-specific-area)
+8. [Basic CSS: Use a media query to change a variable](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
+
 ### Day 7: June 17, 2018
 
 **Today's Progress**:
-D6 - Recorded a first video about how to install AdminBSB in Laravel (Mix). Hope to help others through screencasts! #100DaysOfCode
+D7 - Recorded a first video about how to install AdminBSB in Laravel (Mix). Hope to help others through screencasts! #100DaysOfCode
 
 **Thoughts**:
-El día de hoy grabé mi primer video para YouTube, el tema aquí es grabar cosas utiles para los demas relacionadas con código, en formato screencast.
+Today I recorded my first YouTube video, the subject here is to record useful things for others, related to code in a screencast format.
 
 **Link to work**:
-En el transcurso de la semana subiré el video a YouTube.
+In the course of the week I will upload the video to YouTube.
 
 ### Day 6: June 16, 2018
 
