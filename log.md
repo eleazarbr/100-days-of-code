@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 9: June 19, 2018
+
+**Today's Progress**:
+D9 - Today I continued with #freeCodeCamp; finished 18 challenges from "Applied Visual Design" section!
+
+**Thoughts**:
+I like how the freeCodeCamp curriculum was redesigned! It encourages me to keep going and learn new things every day.
+
+**Link to work**:
+1. [Create Visual Balance Using the Textalign Property](https://www.freecodecamp.org/challenges/create-visual-balance-using-the-textalign-property)
+2. [Adjust the Width of An Element Using the Width Property](https://www.freecodecamp.org/challenges/adjust-the-width-of-an-element-using-the-width-property)
+3. [Adjust the Height of An Element Using the Height Property](https://www.freecodecamp.org/challenges/adjust-the-height-of-an-element-using-the-height-property)
+4. [Use the Strong Tag To Make Text Bold](https://www.freecodecamp.org/challenges/use-the-strong-tag-to-make-text-bold)
+5. [Use the Em Tag To Italicize Text](https://www.freecodecamp.org/challenges/use-the-em-tag-to-italicize-text)
+6. [Use the U Tag To Underline Text](https://www.freecodecamp.org/challenges/use-the-u-tag-to-underline-text)
+7. [Use the Del Tag To Strikethrough Text](https://www.freecodecamp.org/challenges/use-the-del-tag-to-strikethrough-text)
+8. [Adjust the Hover State of An Anchor Tag](https://www.freecodecamp.org/challenges/adjust-the-hover-state-of-an-anchor-tag)
+9. [Set the Lineheight of Paragraphs](https://www.freecodecamp.org/challenges/set-the-lineheight-of-paragraphs)
+10. [Set the Fontsize of Paragraph Text](https://www.freecodecamp.org/challenges/set-the-fontsize-of-paragraph-text)
+11. [Set the Fontweight for Multiple Heading Elements](https://www.freecodecamp.org/challenges/set-the-fontweight-for-multiple-heading-elements)
+12. [Set the Fontsize for Multiple Heading Elements](https://www.freecodecamp.org/challenges/set-the-fontsize-for-multiple-heading-elements)
+13. [Use the Texttransform Property To Make Text Uppercase](https://www.freecodecamp.org/challenges/use-the-texttransform-property-to-make-text-uppercase)
+14. [Decrease the Opacity of An Element](https://www.freecodecamp.org/challenges/decrease-the-opacity-of-an-element)
+15. [Add A Boxshadow To A Cardlike Element](https://www.freecodecamp.org/challenges/add-a-boxshadow-to-a-cardlike-element)
+16. [Adjust the Size of A Header Versus A Paragraph Tag](https://www.freecodecamp.org/challenges/adjust-the-size-of-a-header-versus-a-paragraph-tag)
+17. [Adjust the Backgroundcolor Property of Text](https://www.freecodecamp.org/challenges/adjust-the-backgroundcolor-property-of-text)
+18. [Create A Horizontal Line Using the Hr Element](https://www.freecodecamp.org/challenges/create-a-horizontal-line-using-the-hr-element)
+
 ### Day 8: June 18, 2018
 
 **Today's Progress**:
@@ -32,18 +60,18 @@ In the course of the week I will upload the video to YouTube.
 
 ### Day 6: June 16, 2018
 
-Saturday - Resting day! 
+Saturday - Resting day!
 
 ### Day 5: June 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**:
 D5 - Continue realizando algoritmos en #freeCodeCamp #100DaysOfCode
 
 **Thoughts**:
 Quiero disponer de media hora todos los días, que también sea un compromiso y finalizar el curriculum de freeCodeCamp!
 
 **Link to work**:
-- 
+-
 
 ### Day 4: June 14, 2018
 
@@ -59,7 +87,7 @@ At the moment I acquired a subscription with DigitalOcean, I find it interesting
 ### Day 3: June 13, 2018
 
 **Today's Progress**:
-D3 - Finished the Introduction to Basic HTML and HTML5 section in freeCodeCamp! 
+D3 - Finished the Introduction to Basic HTML and HTML5 section in freeCodeCamp!
 
 **Thoughts**:
 I've already finished this previously, however, new challenges were added which I already solved.
@@ -77,7 +105,7 @@ Also, read about Digital Ocean to use it soon in a personal project.
 As it's a personal project, I'm going to try Digital Ocean, then I plan to try Heroku and continue learning about cloud hosting
 
 **Link to work**:
-- 
+-
 
 ### Day 1: June 11, 2018
 
