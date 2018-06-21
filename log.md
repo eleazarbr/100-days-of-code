@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10-11: June 21, 2018
+
+**Today's Progress**:
+D10-11 ~ Finally finished a first Youtube video, simple, but it serve to start an attempt to help others #100DaysOfCode https://youtu.be/-cmCydc2YFc.
+
+**Thoughts**:
+It was a simple project, however, it helped me to start with the world of screencasting, the goal is to help other people with the things that I am solving day by day, referring to computer science.
+
+**Link to work**:
+- [How to install AdminBSB in Laravel 5.6 (Mix)](https://youtu.be/-cmCydc2YFc)
+
 ### Day 9: June 19, 2018
 
 **Today's Progress**:
