@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: June 22, 2018
+**Today's Progress**:
+D12 - Continue with #freeCodeCamp ~ Total challenges completed: *11* (Applied Visual Design) #100DaysOfCode
+
+**Thoughts**:
+Useful to remember how it works: *relative, absolute, fixed, float, z-index*.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 10-11: June 21, 2018
 
 **Today's Progress**:
