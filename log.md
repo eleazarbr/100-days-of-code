@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 14: June 24, 2018
+**Today's Progress**:
+D13 - Mexico Won ⚽️ && continued with #freeCodeCamp: 8 completed challenges 😄 #100DaysOfCode
+
+**Thoughts**:
+Continued with the freeCodeCamp curriculum, it's interesting the whole design world and the use of css, which I still consider: my achilles heel xD ...
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
+### Day 13: June 23, 2018
+
+~ REST DAY ~
+
 ### Day 12: June 22, 2018
 **Today's Progress**:
 D12 - Continue with #freeCodeCamp ~ Total challenges completed: *11* (Applied Visual Design) #100DaysOfCode
