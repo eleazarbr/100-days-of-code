@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 25, 2018
+**Today's Progress**:
+D15 - Compound effect; every day an improvement ~ 5 challenges done #freeCodeCamp #100DaysOfCode
+
+**Thoughts**:
+Through the compound effect, each day im going to dedicate time for this challenge!
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 14: June 24, 2018
 **Today's Progress**:
 D13 - Mexico Won ⚽️ && continued with #freeCodeCamp: 8 completed challenges 😄 #100DaysOfCode
