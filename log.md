@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 27, 2018
+**Today's Progress**:
+D17 - Daily actions: 8 #freeCodeCamp challenge #100DaysOfCode! Have a nice day! 
+
+**Thoughts**:
+Continued with daily actions to achieve objectives, if you add the variable of time, better results come.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 16: June 26, 2018
 **Today's Progress**:
 D16 - Finished the #freeCodeCamp Applied Visual Design section. This is a good habit #100DaysOfCode!
