@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 26, 2018
+**Today's Progress**:
+D16 - Finished the #freeCodeCamp Applied Visual Design section. This is a good habit #100DaysOfCode!
+
+**Thoughts**:
+Finished the #freeCodeCamp Applied Visual Design section. It was an interesting section where I learned about the animations in css, which I had read but had never used.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 15: June 25, 2018
 **Today's Progress**:
 D15 - Compound effect; every day an improvement ~ 5 challenges done #freeCodeCamp #100DaysOfCode
