@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 28: June 28, 2018
+**Today's Progress**:
+D18 - Something different: Started using @tailwindcss; great work and super useful! #100DaysOfCode 
+
+**Thoughts**:
+I liked using tailwind because it supports to create designs in a faster way without writing a single line of CSS
+
+**Link to work**:
+- 
+
 ### Day 17: June 27, 2018
 **Today's Progress**:
 D17 - Daily actions: 8 #freeCodeCamp challenge #100DaysOfCode! Have a nice day! 
