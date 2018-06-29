@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 28: June 28, 2018
+### Day 19: Jun 29, 2018
+**Today's Progress**:
+D19 ~ :D Finished the "Introduction to the Applied Accessibility Challenges" section #freeCodeCamp #100DaysOfCode
+
+**Thoughts**:
+Step by step every day to complete all the freeCodeCamp challenges
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
+### Day 18: June 28, 2018
 **Today's Progress**:
 D18 - Something different: Started using @tailwindcss; great work and super useful! #100DaysOfCode 
 
@@ -8,7 +18,7 @@ D18 - Something different: Started using @tailwindcss; great work and super usef
 I liked using tailwind because it supports to create designs in a faster way without writing a single line of CSS
 
 **Link to work**:
-- 
+- (My Github)[https://github.com/eleazarbr/isadeli/commit/4b51efd28f7ee53d5ff9289f173a4dc2f4ff28d9]
 
 ### Day 17: June 27, 2018
 **Today's Progress**:
