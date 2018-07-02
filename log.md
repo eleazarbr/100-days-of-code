@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 20: Jul 2, 2018
+
+**Today's Progress**:
+D20 - Finished the CSS Flexbox section, now I know why it's a must to know it.
+
+**Thoughts**:
+I'm currently learning how to use Tailwind, so I skipped a section in freeCodeCamp to learn how to use Flexbox, which is a must that we should know.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
+## Day 20: Jul 1, 2018
+
+REST DAY
+
 ### Day 19: Jun 29, 2018
 **Today's Progress**:
 D19 ~ :D Finished the "Introduction to the Applied Accessibility Challenges" section #freeCodeCamp #100DaysOfCode
