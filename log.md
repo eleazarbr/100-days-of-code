@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: Jul 4, 2018
+
+**Today's Progress**:
+D21 - Finished the Introduction to the Responsive Web Design Challenges section #freeCodeCamp #100DaysOfCode want to start the Design Projects soon.
+
+**Thoughts**:
+I really liked the new freeCodeCamp curriculum, i can't wait to start the Design Project as soon as posible. So i'll continue with this challenges everyday.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 20: Jul 2, 2018
 
 **Today's Progress**:
