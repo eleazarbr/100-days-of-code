@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 23: Jul 6, 2018
+
+**Today's Progress**:
+D23 - Today I redesigned my website homepage #100DaysOfCode
+
+**Thoughts**:
+Redesigned my website homepage using tailwind, I really like it because finally I have full control over my designs and it improve my productivy  doing things faster.
+
+**Link to work**:
+- (eleazarbr.github.io)[https://github.com/eleazarbr/eleazarbr.github.io/tree/dev]
+
 ### Day 22: Jul 5, 2018
 
 **Today's Progress**:
