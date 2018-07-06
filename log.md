@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 22: Jul 5, 2018
+
+**Today's Progress**:
+D22 - Started the Introduction to the CSS Grid Challenges #freeCodeCamp #100DaysOfCode 
+
+**Thoughts**:
+Today I continued with freecodecamp, but also with the redesign of my website, I want to do something more personalized by myself and made with tailwindcss.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 21: Jul 4, 2018
 
 **Today's Progress**:
