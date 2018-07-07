@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 24: Jul 7, 2018
+
+Rest day.
+
 ### Day 23: Jul 6, 2018
 
 **Today's Progress**:
