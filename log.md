@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 25: Jul 9  7, 2018
+
+**Today's Progress**:
+D24 - Finished all the Responsive Web Design challenges!! Now I can start the projects! :D
+
+**Thoughts**:
+Finally I finished all the first challenges, now I have a extra knowledge about the responsive design.
+
+**Link to work**:
+- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+
 ### Day 24: Jul 7, 2018
 
 Rest day.
