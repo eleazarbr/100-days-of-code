@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 25: Jul 9  7, 2018
+### Day 26: Jul 10, 2018
+
+**Today's Progress**:
+D25 - Used jekyll and gh to record my way in 100daysofcode
+
+**Thoughts**:
+I want to post something everyday, let see what happen 
+
+**Link to work**:
+- [eresendez](https://eresendez.com)
+
+### Day 25: Jul 9, 2018
 
 **Today's Progress**:
 D24 - Finished all the Responsive Web Design challenges!! Now I can start the projects! :D
@@ -9,7 +20,7 @@ D24 - Finished all the Responsive Web Design challenges!! Now I can start the pr
 Finally I finished all the first challenges, now I have a extra knowledge about the responsive design.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 24: Jul 7, 2018
 
@@ -24,7 +35,7 @@ D23 - Today I redesigned my website homepage #100DaysOfCode
 Redesigned my website homepage using tailwind, I really like it because finally I have full control over my designs and it improve my productivy  doing things faster.
 
 **Link to work**:
-- (eleazarbr.github.io)[https://github.com/eleazarbr/eleazarbr.github.io/tree/dev]
+- [eleazarbr.github.io](https://github.com/eleazarbr/eleazarbr.github.io/tree/dev)
 
 ### Day 22: Jul 5, 2018
 
@@ -35,7 +46,7 @@ D22 - Started the Introduction to the CSS Grid Challenges #freeCodeCamp #100Days
 Today I continued with freecodecamp, but also with the redesign of my website, I want to do something more personalized by myself and made with tailwindcss.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 21: Jul 4, 2018
 
@@ -46,7 +57,7 @@ D21 - Finished the Introduction to the Responsive Web Design Challenges section 
 I really liked the new freeCodeCamp curriculum, i can't wait to start the Design Project as soon as posible. So i'll continue with this challenges everyday.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 20: Jul 2, 2018
 
@@ -57,7 +68,7 @@ D20 - Finished the CSS Flexbox section, now I know why it's a must to know it.
 I'm currently learning how to use Tailwind, so I skipped a section in freeCodeCamp to learn how to use Flexbox, which is a must that we should know.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ## Day 20: Jul 1, 2018
 
@@ -71,7 +82,7 @@ D19 ~ :D Finished the "Introduction to the Applied Accessibility Challenges" sec
 Step by step every day to complete all the freeCodeCamp challenges
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 18: June 28, 2018
 **Today's Progress**:
@@ -81,7 +92,7 @@ D18 - Something different: Started using @tailwindcss; great work and super usef
 I liked using tailwind because it supports to create designs in a faster way without writing a single line of CSS
 
 **Link to work**:
-- (My Github)[https://github.com/eleazarbr/isadeli/commit/4b51efd28f7ee53d5ff9289f173a4dc2f4ff28d9]
+- [My Github](https://github.com/eleazarbr/isadeli/commit/4b51efd28f7ee53d5ff9289f173a4dc2f4ff28d9)
 
 ### Day 17: June 27, 2018
 **Today's Progress**:
@@ -91,7 +102,7 @@ D17 - Daily actions: 8 #freeCodeCamp challenge #100DaysOfCode! Have a nice day!
 Continued with daily actions to achieve objectives, if you add the variable of time, better results come.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 16: June 26, 2018
 **Today's Progress**:
@@ -101,7 +112,7 @@ D16 - Finished the #freeCodeCamp Applied Visual Design section. This is a good h
 Finished the #freeCodeCamp Applied Visual Design section. It was an interesting section where I learned about the animations in css, which I had read but had never used.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 15: June 25, 2018
 **Today's Progress**:
@@ -111,7 +122,7 @@ D15 - Compound effect; every day an improvement ~ 5 challenges done #freeCodeCam
 Through the compound effect, each day im going to dedicate time for this challenge!
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 14: June 24, 2018
 **Today's Progress**:
@@ -121,7 +132,7 @@ D13 - Mexico Won ⚽️ && continued with #freeCodeCamp: 8 completed challenges 
 Continued with the freeCodeCamp curriculum, it's interesting the whole design world and the use of css, which I still consider: my achilles heel xD ...
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 13: June 23, 2018
 
@@ -135,7 +146,7 @@ D12 - Continue with #freeCodeCamp ~ Total challenges completed: *11* (Applied Vi
 Useful to remember how it works: *relative, absolute, fixed, float, z-index*.
 
 **Link to work**:
-- (FreeCodeCamp Timeline)[https://www.freecodecamp.org/eleazarbr]
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
 
 ### Day 10-11: June 21, 2018
 
