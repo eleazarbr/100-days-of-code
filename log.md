@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 26: Jul 13, 2018
+
+**Today's Progress**:
+D28- Completed the Build a Survey Form project #100DaysOfCode #freeCodeCamp
+
+**Thoughts**:
+Finished one more project! :D 
+
+**Link to work**:
+- [eresendez](https://eresendez.com/project-survey-form)
+
+### Day 26: Jul 12, 2018
+
+**Today's Progress**:
+D27 - Continued with the Build a Survey Form project
+
+**Thoughts**:
+-
+
+**Link to work**:
+-
+
 ### Day 26: Jul 10, 2018
 
 **Today's Progress**:
