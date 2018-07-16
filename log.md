@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 26: Jul 13, 2018
+### Day 28: Jul 16, 2018
+
+**Today's Progress**:
+Day29 - Today, started the project "Product Landing Page" #freeCodeCamp #100DaysOfCode 
+
+**Thoughts**:
+I near of the Responsive Certification,  and happy that I'm learning and practicing a lot.
+
+**Link to work**:
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
+
+### Day 27: Jul 14, 2018
+
+REST DAY
+
+### Day 27: Jul 13, 2018
 
 **Today's Progress**:
 D28- Completed the Build a Survey Form project #100DaysOfCode #freeCodeCamp
