@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 28: Jul 16, 2018
+### Day 30: Jul 20, 2018
+
+**Today's Progress**:
+D30 ~ With lot of work, but today I was able to resume the project "Build A Landing Page" #freeCodeCamp #100DaysOfCode 
+
+**Thoughts**:
+I have so much work, but today I continued with this project, I also wrote to two blog posts.
+
+**Link to work**:
+- [FreeCodeCamp Timeline](https://www.freecodecamp.org/eleazarbr)
+
+### Day 29: Jul 16, 2018
 
 **Today's Progress**:
 Day29 - Today, started the project "Product Landing Page" #freeCodeCamp #100DaysOfCode 
