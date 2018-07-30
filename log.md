@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 31: Jul 30, 2018
+
+**Today's Progress**:
+Went back to the challenge after a heavy week :( ~ Day 31 Restructured the layout of a miniCRM Laravel personal project #100daysofcode
+
+**Thoughts**:
+I wont miss the challenge again, even if I have lots of work.
+
+**Link to work**:
+- [Laravel MiniCRM Github](https://github.com/eleazarbr/laraveldaily-minicrm)
+
 ### Day 30: Jul 20, 2018
 
 **Today's Progress**:
