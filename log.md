@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 33: Ago 3, 2018
+
+**Today's Progress**:
+Day33 ~ Step by step, continued with personal projects this time a mini CRM with Laravel #100DaysOfCode
+
+**Thoughts**:
+Kaizen, every day until finishing my pending projects.
+
+**Link to work**:
+- [Laravel MiniCRM](https://github.com/eleazarbr/laraveldaily-minicrm)
+
 ### Day 32: Ago 2, 2018
 
 **Today's Progress**:
