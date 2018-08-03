@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 32: Ago 2, 2018
+
+**Today's Progress**:
+- Day32 ~ Started to test how the WooCommerce API works #100DaysOfCode
+
+**Thoughts**:
+Started to test the WooCommerce API, because I want to learn this platform, as I already have experience with the shopify API, now I would like to know this side of Wordpress
+
+**Link to work**:
+- 
+
 ### Day 31: Jul 30, 2018
 
 **Today's Progress**:
