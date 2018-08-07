@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+**Today's Progress**:
+D35 - Learning to use the #WooCommerce products API #100DaysOfCode 
+
+**Thoughts**:
+Started to read the WooCommerce documentation to learn how to use its products API, this WordPress plugin is very useful and interesting.
+
+**Link to work**:
+- [Introducción - API de productos de WooCommerce 2.6](https://eresendez.com/woocommerce-products-api-introduction)
+
+### Day 34: Ago 4, 2018
+
+**Today's Progress**:
+Day34 ~ Adding code to the Building a Landing Page project #100DaysOfCode #freeCodeCamp
+
+**Thoughts**:
+Continued with the Building a Landing Page Project!
+
+**Link to work**:
+- [Building a Landing Page Project](https://eresendez.com/project-landing-page)
+
 ### Day 33: Ago 3, 2018
 
 **Today's Progress**:
