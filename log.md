@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 36: Ago 8, 2018
+
+**Today's Progress**:
+D36 - Continued improving the frontend side #Laravel #100DaysOfCode
+
+**Thoughts**:
+As I want to finish all my task, this project is one of them.
+
+**Link to work**:
+- [Github Commit](https://github.com/eleazarbr/laraveldaily-minicrm/commit/afe498809d8487c689445c9b16dadaebd87783de)
+
 **Today's Progress**:
 D35 - Learning to use the #WooCommerce products API #100DaysOfCode 
 
