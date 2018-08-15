@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 37: Ago 14, 2018
+
+**Today's Progress**:
+D37 - Implemented push notifications on a personal #Laravel project
+
+**Thoughts**:
+Continued finish my personal projects.
+
+**Link to work**:
+- [Github Commit](https://github.com/eleazarbr/laraveldaily-minicrm/commit/d34c8619afaeb6c1e71cceadf5ab3f8f9d8d0e22)
+
 ### Day 36: Ago 8, 2018
 
 **Today's Progress**:
