@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 38: Ago 15, 2018
+
+**Today's Progress**:
+D38 - Started working in a multilanguage site in #Laravel #100DaysOfCode
+
+**Thoughts**:
+- This week I'll work with the multi-language translation of a Laravel site
+
+**Link to work**:
+- 
+
 ### Day 37: Ago 14, 2018
 
 **Today's Progress**:
